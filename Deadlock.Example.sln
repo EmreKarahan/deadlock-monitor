@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadlock", "Deadlock\Deadlock.csproj", "{7B208ED9-6B88-428B-BFB8-97159E7EAAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deadlock.Monitor", "Deadlock.Monitor\Deadlock.Monitor.csproj", "{A5322E62-52DC-4424-9475-DF3894DA05D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B208ED9-6B88-428B-BFB8-97159E7EAAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B208ED9-6B88-428B-BFB8-97159E7EAAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B208ED9-6B88-428B-BFB8-97159E7EAAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B208ED9-6B88-428B-BFB8-97159E7EAAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5322E62-52DC-4424-9475-DF3894DA05D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5322E62-52DC-4424-9475-DF3894DA05D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5322E62-52DC-4424-9475-DF3894DA05D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5322E62-52DC-4424-9475-DF3894DA05D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F97708-A0D6-48A1-85F9-3A11352779E2}
+	EndGlobalSection
+EndGlobal
